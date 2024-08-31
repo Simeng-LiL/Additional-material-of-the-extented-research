@@ -1,0 +1,7 @@
+Write a Python script to train a model using the image data in the 'JPEGImages' folder to recognize 50 animal species. The 'JPEGImages' folder contains subdirectories for each animal class, with each subdirectory containing images of the corresponding animal class. The code should include the following components:
+1. Data Loading: Automatically read all images from 'JPEGImages' and split them into training and testing sets.
+2. Data Preprocessing: Implement image resizing, normalization, and other enhancement techniques to improve model training effectiveness.
+3. Model Definition: Define a model capable of handling multi-class classification.
+4. Model Training: Train the model on the training set.
+5. Model Evaluation: Evaluate the model's performance on an independent testing set.
+6. Performance Optimization: Provide strategies to address performance bottlenecks, such as increasing batch size, using multiple worker threads, adjusting the learning rate, and applying mixed precision training.

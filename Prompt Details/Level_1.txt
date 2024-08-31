@@ -1,0 +1,1 @@
+Write a Python code script to train a model using the image data in the 'JPEGImages' folder to recognize 50 animal species. The 'JPEGImages' directory contains subdirectories for each animal class. Each subdirectory contains images of the corresponding animal class. The code should include data loading, data preprocessing, model definition, training and evaluating process. 
